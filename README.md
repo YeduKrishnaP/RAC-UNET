@@ -3,8 +3,8 @@ My III year B.Sc project in Deep Learning
 
 During the final semester of my B.Sc Mathematics programme, I decided to do a project as a course requirement.
 
-This work was selected for a presentation at the **NCVPRIPG 2023** conference held at **IIT Jodhpur** as part of the
-**Student Research Symposium**.
+This work was selected for a presentation at the `NCVPRIPG 2023` conference held at `IIT Jodhpur` as part of the
+`Student Research Symposium`.
 
 # Abstract
 Face masks have emerged as a quintessential accessory during the outbreak of a pandemic, especially during one that matches the scale of COVID 19. This poses a significant challenge of recreating the faces of people as the security systems we have established in our society depends heavily on methods like facial recognition etc. 

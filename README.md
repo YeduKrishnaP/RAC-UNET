@@ -17,6 +17,16 @@ The training was done on P100 GPUs provided by Kaggle for 300 epochs using diffe
 
 
 
+# Model Architecture
+![RAC-UNET](https://github.com/YeduKrishnaP/RAC-UNET/assets/98282751/16998e84-eace-410e-9f5a-7724287aaee4)
+
+### Upscale Block
+![Upscale resized](https://github.com/YeduKrishnaP/RAC-UNET/assets/98282751/d8e835e9-9066-4eab-b3ec-dd4a1df94f77)
+
+
+### Downscale Block
+![Downscale resized](https://github.com/YeduKrishnaP/RAC-UNET/assets/98282751/73149aff-2dc8-440e-90f2-f2dc336ea42e)
+
 
 # Results and Comparison table
 ![4](https://user-images.githubusercontent.com/98282751/235886205-c50eab7d-d4ad-4958-9f17-d3edbedf7f0a.png)

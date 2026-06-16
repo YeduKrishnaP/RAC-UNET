@@ -42,6 +42,3 @@ The training was done on P100 GPUs provided by Kaggle for 300 epochs using diffe
 
 Comparison of the models (Old, to be updated)
 ![Comparison table](https://user-images.githubusercontent.com/98282751/235886455-bef380da-73ba-44e5-9feb-ec4227b0f64d.png)
-
-# Report
-[Report.pdf](https://github.com/YkingAwesome/RAC-UNET/files/11381387/Report.pdf)

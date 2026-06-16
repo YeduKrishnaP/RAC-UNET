@@ -31,6 +31,7 @@ The training was done on P100 GPUs provided by Kaggle for 300 epochs using diffe
 # Results and Comparison table
 
 ## Final Outputs (MS-SSIM on RAFDB + AFFECTNET for 200 epochs)
+The middle column is the ground truth unmasked image while the right one showcases the model outputs. We find that most of the predictions are reasonable and that the outputs are not in the uncanny valley.
 ![NCVPRIPG 2023 final](https://github.com/YeduKrishnaP/RAC-UNET/assets/98282751/1e7921fd-73a4-43cd-882c-b20e760ae458)
 
 
